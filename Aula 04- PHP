@@ -24,7 +24,7 @@ echo "<h1>Galeria de imagens</h1>";
 echo "<h4> Taylor Swift</h4>";
 echo "<table><tr>";
     for ($x=1; $x<=5; $x++) {
-        echo "<td><img src= "file:///C:/Users/aluno.sesipaulista/Downloads/Nova%20pasta/fotos%20da%20taylor%20swift.webp", $x, ".jpg'></td>";
+        echo "<td><img src= "https://images.zwierciadlo.pl/_resource/res/path/b9/88/b988c596-5367-4f30-b291-cbe6abfbf46c_f750x750", $x, ".jpg'></td>";
     }
     echo "</tr></table>";
     echo "<table><tr>";
